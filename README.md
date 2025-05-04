@@ -19,12 +19,18 @@ this guide inspired by (https://wiki.archlinux.org/title/Pacman).
   pacman -Si [package-name]
   ```
 
-* install package 
+* install package from repository database
   
   ```bash
   pacman -S [package-name]
   ```
 
+* install package from local source
+  
+  ```bash
+  pacman -U /path/to/package/[package-name]-[version].pkg.tar.zst
+  ```
+  
 * list orphan package dependency
   
   ```bash
