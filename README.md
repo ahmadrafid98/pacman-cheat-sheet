@@ -1,4 +1,4 @@
-##  Pacman Guide
+##  Pacman Cheat Sheet
 This cheat sheet inspired by (https://wiki.archlinux.org/title/Pacman).
 
 * synchronizes the repository databases and updates the local packages
