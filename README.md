@@ -19,6 +19,12 @@ this guide inspired by (https://wiki.archlinux.org/title/Pacman).
   pacman -Si [package-name]
   ```
 
+* install package 
+  
+  ```bash
+  pacman -S [package-name]
+  ```
+
 * list orphan package dependency
   
   ```bash
